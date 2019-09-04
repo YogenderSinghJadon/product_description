@@ -1,6 +1,6 @@
 # product_description
 
-A new Flutter application.
+A product description page for e-shopping app in flutter.
 
 ## Getting Started
 
